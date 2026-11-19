@@ -9,3 +9,5 @@ After that the app looks here for newer versions and offers them itself.
 Every release is signed with the same key. The SHA-256 fingerprint of its certificate:
 
 `4E:FB:D3:3F:EA:D3:9E:18:00:FF:59:45:8E:34:4A:6A:13:24:38:92:7A:02:F9:44:E7:C6:0A:C7:BC:91:57:CD`
+
+The `mail` folder holds the pictures that the app's emails carry.
